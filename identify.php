@@ -53,7 +53,7 @@
 			define(".jpg", "Тип файла: Изображение");
 			define("avi", "Тип файла: Фильм");
 
-				echo "That simple class for identifity a filetype is Cherry system"; 
+				echo "That simple class for identify a filetype in Cherry system"; 
 		}
 	}
 
